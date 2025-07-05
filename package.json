@@ -1,0 +1,15 @@
+{
+  "name": "paquete-estadistico-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Mario Fernández",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "description": "Funciones estadísticas básicas y generación de gráficos con node.js."
+}
